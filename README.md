@@ -10,6 +10,9 @@ Fine Tuning and network surgery of pretrained Keras ImageNet Model
 git clone https://github.com/kevindsouza2306/Fine_Tuning___Flower17_using_ImageNet.git
 ```
 ```bash
+pip install -r requirements.txt
+```
+```bash
 python detect_flower_17.py -m <location of pretrained model downloaded using the above google drive link> -d <location of the dataset folder>
 
 ```
