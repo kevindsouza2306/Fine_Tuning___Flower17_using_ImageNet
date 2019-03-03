@@ -1,5 +1,5 @@
 # Fine_Tuning___Flower17_using_ImageNet<img src="https://img.shields.io/badge/License-MIT-green.svg"  alt="License"/> <a href="https://kevindsouza.ml"><img src="https://img.shields.io/badge/Kevin-D%27souza-blue.svg"  alt="- Kevin Dsouza"/></a>
-Fine Tuning and network surgery of pretrained Keras ImageNet Model
+Trained deep learning model using Transfer learning (fine tuning using keras VGG16 imagenet model) for Flower-17 dataset and gained 95% accuracy
 
 ## Download the Pretrained modelusing the below link
 <a href="https://drive.google.com/open?id=1pPdPEM6GGbtqcSTT2KC4Xjhb9PxdV6SN">https://drive.google.com/open?id=1pPdPEM6GGbtqcSTT2KC4Xjhb9PxdV6SN</a>
