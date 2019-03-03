@@ -4,6 +4,9 @@ Trained deep learning model using Transfer learning (fine tuning using keras VGG
 ## Download the Pretrained modelusing the below link
 <a href="https://drive.google.com/open?id=1pPdPEM6GGbtqcSTT2KC4Xjhb9PxdV6SN">https://drive.google.com/open?id=1pPdPEM6GGbtqcSTT2KC4Xjhb9PxdV6SN</a>
 
+## Download Flower 17 dataset using below link:
+<a href="https://drive.google.com/open?id=1zlV6ZEAWA7X4l4pV4VT1nYYuAxA62bn0">https://drive.google.com/open?id=1zlV6ZEAWA7X4l4pV4VT1nYYuAxA62bn0</a>
+
 ## Clone and run the flower detect code 
 
 ```bash
