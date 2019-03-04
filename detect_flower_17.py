@@ -14,8 +14,7 @@ ap.add_argument("-m", "--model", help="path to model", required=True)
 
 args = vars(ap.parse_args())
 
-#classlabels = [pt.split(os.path.sep)[-2] for pt in list(paths.list_images("C:\\Users\\kevin\\Desktop\\AI\\datasets\\Flower17"))]
-#classlabels = [str(x) for x in np.unique(classlabels)]
+
 
 classlabels = ['Bluebell','Buttercup','ColtsFoot','Cowslip','Crocus','Daffodil','Daisy','Dandelion','Fritillary','Iris','LilyValley','Pansy','Snowdrop','Sunflower','Tigerlily','Tulip','Windflower']
 print("[INFO] sampling imags")
